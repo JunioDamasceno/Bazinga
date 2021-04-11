@@ -1,0 +1,16 @@
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/bin/Debug/net5.0/Bazinga
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/bin/Debug/net5.0/Bazinga.deps.json
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/bin/Debug/net5.0/Bazinga.runtimeconfig.json
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/bin/Debug/net5.0/Bazinga.runtimeconfig.dev.json
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/bin/Debug/net5.0/Bazinga.dll
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/bin/Debug/net5.0/ref/Bazinga.dll
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/bin/Debug/net5.0/Bazinga.pdb
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/Bazinga.csprojAssemblyReference.cache
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/Bazinga.GeneratedMSBuildEditorConfig.editorconfig
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/Bazinga.AssemblyInfoInputs.cache
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/Bazinga.AssemblyInfo.cs
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/Bazinga.csproj.CoreCompileInputs.cache
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/Bazinga.dll
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/ref/Bazinga.dll
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/Bazinga.pdb
+/home/junio/git/dotnet/Desafios_aritmeticos_em_CS/Bazinga/obj/Debug/net5.0/Bazinga.genruntimeconfig.cache
